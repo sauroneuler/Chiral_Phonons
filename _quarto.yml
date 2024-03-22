@@ -4,7 +4,7 @@ project:
 
 book:
   title: "Chiral_Phonons"
-  author: "Norah Jones"
+  author: "DB; JEB; FFGL"
   date: "3/12/2024"
   chapters:
     - index.qmd
