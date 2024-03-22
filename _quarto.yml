@@ -11,6 +11,7 @@ book:
     - intro.qmd
     - summary.qmd
     - references.qmd
+    - cadena.qmd
 
 bibliography: references.bib
 
